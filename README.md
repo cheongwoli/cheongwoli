@@ -11,8 +11,8 @@
 - 픽셀아트나 일러스트등 그림을 그리거나 그래픽 디자인 하는 것에 관심이 있습니다!
 ---
 ### Programming languages
-![C Sharp Badge](http://img.shields.io/badge/_-C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python Badge](http://img.shields.io/badge/_-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C Sharp Badge](http://img.shields.io/badge/Code-C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python Badge](http://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=starpixeller&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
