@@ -14,6 +14,6 @@
 ![C Sharp Badge](http://img.shields.io/badge/│-C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python Badge](http://img.shields.io/badge/│-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=starpixeller&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheongwoli&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starpixeller&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
