@@ -7,4 +7,4 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cheongwoli)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![C Sharp](https://img.shields.io/badge/C Sharp-d14836?style=flat-square&logo=c-sharp&logoColor=white)]
+[![C Sharp](https://img.shields.io/badge/C-Sharp-d14836?style=flat-square&logo=c-sharp&logoColor=white)]
