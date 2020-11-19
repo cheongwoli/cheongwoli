@@ -4,5 +4,4 @@
 
 ## 💻 My GitHub Status
 [![My github stats](https://github-readme-stats.vercel.app/api?username=cheongwoli&show_icons=true&hide_border=true&count_private=true)](https://github.com/cheongwoli)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cheongwoli)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheongwoli&hide_border=true&count_private=true&layout=compact)](https://github.com/cheongwoli)
