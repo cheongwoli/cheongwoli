@@ -3,6 +3,6 @@
 - **Hello! My nickname is CheongWoli! I mainly develop Discord Bots!**
 
 ## 💻 My GitHub Status
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheongwoli&show_icons=true)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=cheongwoli&show_icons=true&hide_border=true&count_private=true)](https://github.com/cheongwoli)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cheongwoli)](https://github.com/anuraghazra/github-readme-stats)
