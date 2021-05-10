@@ -8,5 +8,5 @@
 ![TypeScript](https://img.shields.io/badge/-Type_Script-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🔍 My GitHub Status
-[![My github stats](https://github-readme-stats.vercel.app/api?username=cheongwoli&show_icons=true&hide_border=true&count_private=true)](https://github.com/cheongwoli)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheongwoli&hide_border=true&layout=compact)](https://github.com/cheongwoli)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=blue0moon02&show_icons=true&hide_border=true&count_private=true)](https://github.com/blue0moon02)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blue0moon02&hide_border=true&layout=compact)](https://github.com/blue0moon02)
